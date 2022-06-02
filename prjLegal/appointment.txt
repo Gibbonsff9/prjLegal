@@ -1,0 +1,8 @@
+5/30/2020,11:00 AM,111,Zack Santos
+6/1/2020,12:00 PM,222,Zack Santos
+6/3/2020,1:00 PM,333,Susan White
+6/8/2020,4:00 PM,444,Zack Santos
+6/21/2020,11:30 AM,555,Jack Wilkes
+6/26/2020,12:30 PM,222,Jack Wilkes
+7/1/2020,3:00 PM,444,Susan White
+6/14/2020,12:30 PM,222,Zack Santos

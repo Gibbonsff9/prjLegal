@@ -1,0 +1,3 @@
+Zack Santos,555-555-5555,Business Law,375.00
+Susan White,555-555-5557,Criminal Law,250.00
+Jack Wilkes,555-555-5558,Const. Law,300.00
